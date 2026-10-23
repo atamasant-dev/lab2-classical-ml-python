@@ -1,0 +1,9 @@
+{
+  "python": "3.14.7",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "seed": 42,
+  "n_samples": 6000,
+  "attack_share_pct": 30.2,
+  "n_train": 4800,
+  "n_test": 1200
+}

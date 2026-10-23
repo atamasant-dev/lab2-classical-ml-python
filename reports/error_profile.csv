@@ -1,0 +1,9 @@
+Алгоритм,Група,N,медіана IAT (мс),медіана ActiveSessions,медіана PacketSize (Б),"частка SYN, %"
+Logistic Regression,TN,775,26.33,19.0,711.0,7.741935483870968
+Logistic Regression,FP,63,6.693,136.0,96.0,53.96825396825397
+Logistic Regression,FN,25,16.058,27.0,78.0,32.0
+Logistic Regression,TP,337,0.653,330.0,59.0,63.20474777448071
+Random Forest Classifier,TN,828,24.375500000000002,19.0,632.0,10.507246376811594
+Random Forest Classifier,FP,10,4.274,255.0,52.0,70.0
+Random Forest Classifier,FN,13,12.734,26.0,289.0,38.46153846153847
+Random Forest Classifier,TP,349,0.873,227.0,59.0,61.891117478510026
